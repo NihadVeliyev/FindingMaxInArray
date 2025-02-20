@@ -1,8 +1,6 @@
 package FindingMaxInArray;
 
-import java.util.Scanner;
-
-public class MaxInArray {
+public class ArrayPrinter {
     public static void main(String[] args) {
 
         printArr(new int[]{1, 2, 3, 4});
